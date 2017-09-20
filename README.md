@@ -1,0 +1,2 @@
+# fygithub
+github pract demo
